@@ -14,5 +14,5 @@ Note: This application utilizes a simple XOR encryption method for storing data.
 To get started with **Spare Keys**, clone the GitHub repository and navigate to the project directory:
 
 ```bash
-git clone [https://github.com/yourusername/SpareKeys.git](https://github.com/tvay11/SpareKeys.git)https://github.com/tvay11/SpareKeys.git
+git clone https://github.com/tvay11/SpareKeys.git
 cd SpareKeys
