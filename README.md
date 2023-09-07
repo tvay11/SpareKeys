@@ -16,8 +16,3 @@ To get started with **Spare Keys**, clone the GitHub repository and navigate to 
 ```bash
 git clone https://github.com/tvay11/SpareKeys.git
 cd SpareKeys
-
-'''
-## Contributions
-
-- Feel free to contribute to Spare Keys! Open a pull request or issue for any features or improvements you'd like to see.
