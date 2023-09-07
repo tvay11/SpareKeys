@@ -1,0 +1,5 @@
+/Users/thangvay/Documents/GitHub/SpareKeys/cmake-build-debug/config.tests/static_link_order/CMakeFiles/rebuild_cache.dir
+/Users/thangvay/Documents/GitHub/SpareKeys/cmake-build-debug/config.tests/static_link_order/CMakeFiles/edit_cache.dir
+/Users/thangvay/Documents/GitHub/SpareKeys/cmake-build-debug/config.tests/static_link_order/CMakeFiles/static_link_order_test.dir
+/Users/thangvay/Documents/GitHub/SpareKeys/cmake-build-debug/config.tests/static_link_order/CMakeFiles/staticLib.dir
+/Users/thangvay/Documents/GitHub/SpareKeys/cmake-build-debug/config.tests/static_link_order/CMakeFiles/objLib.dir

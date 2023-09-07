@@ -1,0 +1,4 @@
+/Users/thangvay/Documents/GitHub/SpareKeys/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/thangvay/Documents/GitHub/SpareKeys/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thangvay/Documents/GitHub/SpareKeys/cmake-build-debug/CMakeFiles/untitled9.dir
+/Users/thangvay/Documents/GitHub/SpareKeys/cmake-build-debug/CMakeFiles/untitled9_autogen.dir
