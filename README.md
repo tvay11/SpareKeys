@@ -6,8 +6,8 @@ Note: This application utilizes a simple XOR encryption method for storing data.
 
 ## Requirements
 
-- C++11 or above
-- Qt 6.x
+- C++14 or above
+- Qt 6.0
 
 
 ## Installation
