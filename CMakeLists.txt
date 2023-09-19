@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.20)
-project(untitled9)
+project(SpareKeys)
 
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_AUTOMOC ON)
@@ -13,8 +13,8 @@ find_package(Qt6 COMPONENTS
         Widgets
         REQUIRED)
 
-add_executable(untitled9 main.cpp mainwindow.h mainwindow.cpp EditCredentialDialog.cpp EditCredentialDialog.h)
-target_link_libraries(untitled9
+add_executable(SpareKeys main.cpp mainwindow.h mainwindow.cpp EditCredentialDialog.cpp EditCredentialDialog.h)
+target_link_libraries(SpareKeys
         Qt::Core
         Qt::Gui
         Qt::Widgets
